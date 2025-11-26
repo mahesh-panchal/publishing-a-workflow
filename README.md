@@ -111,6 +111,28 @@ results/
 
 ---
 
+## Community and Support
+
+Include how you want to work with your code users.
+
+We welcome questions, suggestions, and contributions from the scientific community.
+
+### Asking Questions
+
+For **general questions**, discussions on usage, parameter choices, or potential features, please use the **GitHub Discussions** page: [Link to your GitHub Discussions tab].
+
+### Reporting Bugs
+
+If you encounter an error or unexpected behaviour, please file a **GitHub Issue**: [Link to your GitHub Issues tab].
+
+* **Crucial:** Include a **minimal reproducible example** (MRE) that clearly demonstrates the bug, ideally using the included test data or a small subset of your own data. This significantly speeds up resolution.
+
+### Frequently Asked Questions (FAQ)
+
+The most common installation and usage questions are addressed in the dedicated FAQ section of our documentation website: [Link to the FAQ section on your Quarto website].
+
+---
+
 ## License and Citation
 
 Tell users how to cite your work and the licensing terms.
