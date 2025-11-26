@@ -7,6 +7,7 @@ If you use an acronym for your workflow, define it here in a short sentence.
 >
 > Further guidance:
 > * [SciLifeLab - Sharing code and workflows](https://data-guidelines.scilifelab.se/topics/sharing-code-workflows/)
+> * [SciLifeLab - Open Software Checklist](https://github.com/ScilifelabDataCentre/open-science-checklists/blob/main/open_software_checklist.md)
 > * [Ten simple rules for writing and sharing computational notebooks](https://doi.org/10.1371/journal.pcbi.1007007)
 > * [The Turing Way - A guide to reproducible, ethical and collaborative data science](https://book.the-turing-way.org/)
 
