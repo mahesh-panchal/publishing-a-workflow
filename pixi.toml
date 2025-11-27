@@ -1,0 +1,33 @@
+# A Pixi configuration file for managing the workflow and documentation environment
+# See https://pixi.sh/latest/
+[workspace]
+authors = ["Mahesh Binzer-Panchal <mahesh.binzer-panchal@nbis.se>"]
+channels = ["conda-forge", "bioconda"]
+name = "Workflow Publishing Guide"
+description = "A guide to publishing a workflow"
+platforms = ["linux-64", "osx-arm64"]
+version = "1.0.0"
+
+# Default environment definition used for running the workflow
+[tasks]
+# Run test workflow
+test = "nextflow run main.nf -profile test,docker"
+# Cleans all untracked files and directories, including git ignored files.
+clean-all = "git restore . && git clean -e .pixi -fdx"
+# Cleans up to the last run.
+clean-work = "nextflow clean -f -before last && find work -type d -empty -delete"
+
+[dependencies]
+nextflow = ">=25.10.0,<26"
+
+# Documentation generation using Quarto
+[feature.docs.dependencies]
+quarto = ">=1.8.26,<2"
+
+# Pixi supports multiple environments for different use cases
+# See https://pixi.sh/latest/workspace/multi_environment/
+[environments]
+# The default environment is used to run the workflow
+# implicit: default = ["default"]
+# The 'website' environment based on the 'docs' feature allows building the website
+website = ["docs"]
