@@ -9,7 +9,7 @@
 > Plain text sections are templates for you to use directly.
 >
 > If you include a dedicated website for your workflow (highly recommended), ensure that this README provides a concise overview and clear directions to the full documentation.
-> Much of the content can then be moved to the website, keeping the README focused on essential information (Quick Start, Documentation Link, Community and Support, License and Citation), and avoiding duplication.
+> Much of the content can then be moved to the website, keeping the README focused on essential information (Introduction, Documentation Link, Community and Support, License and Citation), and avoiding duplication.
 >
 > Instructions to create the website can be found on the website here: [https://mahesh-panchal.github.io/Workflow-Publishing-Guide/](https://mahesh-panchal.github.io/Workflow-Publishing-Guide/). The source code for the website is under the `docs/docs-site-source/` folder in this repository.
 >
