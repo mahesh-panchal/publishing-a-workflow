@@ -24,6 +24,10 @@ nextflow = ">=25.10.0,<26"
 [feature.docs.dependencies]
 quarto = ">=1.8.26,<2"
 
+[feature.docs.tasks]
+# Build and publish the website documentation.
+publish-docs = "quarto publish docs/docs-site-source"
+
 # Pixi supports multiple environments for different use cases
 # See https://pixi.sh/latest/workspace/multi_environment/
 [environments]
