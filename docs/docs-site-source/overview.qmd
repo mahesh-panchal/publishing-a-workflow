@@ -2,10 +2,10 @@
 title: Overview
 ---
 
-Give an overview of what your pipeline does.
+*Give an overview of what your pipeline does.*
 
-[Mermaid flowchart diagrams](https://mermaid.js.org/syntax/flowchart.html)
-are an excellent way to communicate what your workflow does.
+*[Mermaid flowchart diagrams](https://mermaid.js.org/syntax/flowchart.html)
+are an excellent way to communicate what your workflow does.*
 
 ```{mermaid}
 flowchart LR
@@ -14,6 +14,6 @@ flowchart LR
     analysis ==> reports[Reporting]
 ```
 
-If your workflow can be used in multiple ways, Metro maps, such as those
+*If your workflow can be used in multiple ways, Metro maps, such as those
 [used across nf-core](https://nf-co.re/docs/guidelines/graphic_design/workflow_diagrams)
-are an effective way to communicate those paths.
+are an effective way to communicate those paths.*

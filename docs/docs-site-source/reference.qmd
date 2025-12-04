@@ -2,11 +2,11 @@
 title: Reference
 ---
 
-This page acts as a comprehensive reference on how to use your workflow.
+*This page acts as a comprehensive reference on how to use your workflow.
 It describes the inputs to your workflow and how to control it's behaviour.
 Explain in detail what parameters do and affect.
 Explain anything custom to your workflow that won't be found elsewhere, or
-is non-standard.
+is non-standard.*
 
 | Parameter | Description | Data Type | Default Value |
 | :---: | :---: | :---: | :---: |
@@ -14,4 +14,4 @@ is non-standard.
 | `--reference` | Path to the indexed reference genome FASTA file. | `file` | *Required* |
 | `--outdir` | Directory for output results. | `string` | `results/` |
 
-Consider if a cheat-sheet would be useful to users too.
+*Consider if a cheat-sheet would be useful to users too.*

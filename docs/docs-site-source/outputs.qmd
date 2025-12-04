@@ -2,8 +2,8 @@
 title: Workflow Outputs
 ---
 
-Describe where to find the results, which files are important, and how to interpret them.
-If necessary, include case studies as subsections, or subpages.
+*Describe where to find the results, which files are important, and how to interpret them.
+If necessary, include case studies as subsections, or subpages.*
 
 ## Results
 
@@ -16,7 +16,7 @@ The results are stored in a dedicated directory on the **[Storage Platform, e.g.
 
 ## Important files
 
-Describe which files the workflow user should focus on.
+*Describe which files the workflow user should focus on.*
 
 There are two primary files you need to review after every run.
 

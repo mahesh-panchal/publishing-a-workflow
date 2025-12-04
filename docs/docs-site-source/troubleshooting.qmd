@@ -2,11 +2,11 @@
 title: Troubleshooting
 ---
 
-Describe issues a user may encounter and how to solve them.
+*Describe issues a user may encounter and how to solve them.*
 
-Include an FAQ if certain questions arise frequently. A table of contents
+*Include an FAQ if certain questions arise frequently. A table of contents
 can help navigate a large set of questions while still keeping contents
-searchable.
+searchable.*
 
 - [General](#general)
     - [What can I use this workflow for?](#what-can-i-use-this-workflow-for)

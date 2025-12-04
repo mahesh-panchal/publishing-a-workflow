@@ -10,11 +10,11 @@ This website serves as the definitive guide for understanding, implementing, and
 
 ## What is the [Your Workflow Name]?
 
-A summary of your workflow.
+*A summary of your workflow.*
 
 ### Citation and License
 
-Include how to cite your work, and the license it's under.
+*Include how to cite your work, and the license it's under.*
 
 ## Who Should Use This Documentation?
 

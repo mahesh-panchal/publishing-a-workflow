@@ -2,39 +2,39 @@
 title: "Workflow Publishing Guide"
 ---
 
-This is the first page a user of your workflow will see. Instruct
-the users how to find what they need.
+*This is the first page a user of your workflow will see. Instruct
+the users how to find what they need.*
 
-Describe how the website is structured. Point new users to the
-Getting Started page.
+*Describe how the website is structured. Point new users to the
+Getting Started page.*
 
-## Creating this website
+## *Creating this website*
 
-This website was created using Quarto. The Pixi environment in
-this repository contains an environment to use Quarto.
+*This website was created using Quarto. The Pixi environment in
+this repository contains an environment to use Quarto.*
 
 ```{.bash}
 pixi shell -e website
 ```
 
-In the root of the workflow repo, a docs folder has been created to
+*In the root of the workflow repo, a docs folder has been created to
 store any kind of documentation relating to the workflow. For
 example, the source of this website, a copy of the publication,
-maintainer notes, and so on.
+maintainer notes, and so on.*
 
-Within the `docs` folder, we can then use Quarto to create the
-website source.
+*Within the `docs` folder, we can then use Quarto to create the
+website source.*
 
 ```{.bash}
 cd docs
 quarto create project website docs-site-source
 ```
 
-The rest is up to you to fill in. See the other pages for
-suggestions on what the included documentation could contain.
+*The rest is up to you to fill in. See the other pages for
+suggestions on what the included documentation could contain.*
 
-### Alternatives
+### *Alternatives*
 
-Quarto is a fairly easy way to create a static website for your
+*Quarto is a fairly easy way to create a static website for your
 workflow. However, there are quite a few alternatives such as
-Mkdocs that are also suitable.
+Mkdocs that are also suitable.*

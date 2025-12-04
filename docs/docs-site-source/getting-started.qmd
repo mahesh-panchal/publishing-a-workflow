@@ -2,12 +2,12 @@
 title: Getting Started
 ---
 
-Let the user know how to get started with the workflow. This should mirror the section in your README,
-or the README should point them here.
+*Let the user know how to get started with the workflow. This should mirror the section in your README,
+or the README should point them here.*
 
 ### Prerequisites
 
-Define the software and hardware requirements needed to run the workflow.
+*Define the software and hardware requirements needed to run the workflow.*
 
 The workflow requires the following software:
 
@@ -15,13 +15,13 @@ The workflow requires the following software:
 * **Git**: Version control
 * A container runtime: **Docker** (for local testing) or **Singularity/Apptainer** (recommended for HPC).
 
-Include expected resource usage on a typical dataset if possible, such as memory, CPU, runtime, and disk usage.
+*Include expected resource usage on a typical dataset if possible, such as memory, CPU, runtime, and disk usage.*
 
 This workflow can run on standard HPC nodes with at least 16 GB of RAM and 4 CPU cores. Typical runtime for a whole-exome sequencing sample pair is approximately 6-8 hours, depending on the dataset size and computational resources allocated.
 
 ### How to run/install
 
-Supply a tiny dataset for testing purposes, along with example commands to run the workflow.
+*Supply a tiny dataset for testing purposes, along with example commands to run the workflow.*
 
 **Nextflow Example:**
 ```{.bash}
