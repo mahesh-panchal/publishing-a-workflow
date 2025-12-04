@@ -2,7 +2,8 @@
 
 This checklist is designed to ensure that workflows are thoroughly reviewed and ready for publication. It covers content quality, technical accuracy, review processes, and final launch steps.
 
-> **Note:** Not everything is applicable to every workflow. Use discretion to determine which items are relevant to your specific case.
+> [!NOTE]
+> Not everything is applicable to every workflow. Use discretion to determine which items are relevant to your specific case.
 
 ### 📝 I. Content
 
